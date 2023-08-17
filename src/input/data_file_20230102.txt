@@ -1,0 +1,2 @@
+id;state;name;dateOfBirth;role;email
+2;ACTIVE;Tommy;1968.01.30;BUSINESS_OWNER;tommy.holland@gmail.com

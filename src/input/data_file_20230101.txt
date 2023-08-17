@@ -1,0 +1,4 @@
+id;state;name;dateOfBirth;role;email
+1;ACTIVE;John;1999.08.26;DEVELOPER;john@gmail.com
+2;ACTIVE;Tommy;1968.01.30;BUSINESS_OWNER;tommy@gmail.com
+3;ACTIVE;Mike;2000.03.03;TESTER;mike@gmail.com
