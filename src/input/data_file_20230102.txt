@@ -1,2 +1,7 @@
-id;state;name;dateOfBirth;role;email
-2;ACTIVE;Tommy;1968.01.30;BUSINESS_OWNER;tommy.holland@gmail.com
+id;name;dateOfBirth;role;email
+1;Christina;1999.08.26;DEVELOPER;christina@gmail.com
+2;Sandra;1968.01.09;BUSINESS_OWNER;sandra.laurentina@gmail.com
+3;Robert;2000.03.03;TESTER;robert@gmail.com
+4;Jennifer;1970.06.05;PRODUCT_OWNER;jennifer@gmail.com
+5;Lorenzo;1978.11.02;DEVELOPER;lorenzo@gmail.com
+6;Christof;1992.07.23;DEVELOPER;christof@gmail.com

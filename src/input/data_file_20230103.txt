@@ -1,3 +1,7 @@
-id;state;name;dateOfBirth;role;email
-3;DELETED;Mike;2000.03.03;TESTER;mike@gmail.com
-4;ACTIVE;Anna;1976.06.30;BUSINESS_OWNER;anna@gmail.com
+id;name;dateOfBirth;role;email
+2;Sandra;1968.01.09;BUSINESS_OWNER;sandra.laurentina@gmail.com
+3;Robert;2000.03.03;TESTER;robert@gmail.com
+4;Jennifer;1970.06.05;PRODUCT_OWNER;jennifer@gmail.com
+Lorenzo;Lorenzo;1978.11.02;DEVELOPER;lorenzo@gmail.com
+6;Christof;1992.7.23;DEVELOPER;christof@gmail.com
+7;Maria;1977.3.15;DATA_ARCHITECT;mariagmail.com
